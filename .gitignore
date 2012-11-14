@@ -1,6 +1,10 @@
-*.class
+.idea
+*.iml
+target/
+out/
+*config.properties
+*log4j.properties
+.DS_Store
+tmp/
 
-# Package Files #
-*.jar
-*.war
-*.ear
+*.class
